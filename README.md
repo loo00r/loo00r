@@ -15,6 +15,17 @@
 - 🌱 Вивчаю **TypeScript, С#, C++**
 - 👯 Шукаю співпрацю в **Open Source проектах**
 - 📫 Як зв'язатися зі мною: **sannymasters@gmail.com**
+<div align="center">
+  <a href="mailto:sannymasters@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/loo00r">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://t.me/g00n3r21">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+</div>
 
 ---
 
