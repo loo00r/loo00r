@@ -94,10 +94,10 @@
 
 ---
 
-## 🎯 Поточні цілі на 2024
+## 🎯 Поточні цілі на 2025
 
 - [ ] Завершити 10 open source проектів
-- [ ] Вивчити Rust та WebAssembly
+- [ ] Вивчити TypeScript та C++
 - [ ] Отримати AWS сертифікацію
 - [ ] Написати технічний блог
 - [ ] Виступити на технічній конференції
@@ -107,32 +107,17 @@
 ## 📫 Зв'яжіться зі мною
 
 <div align="center">
-  <a href="mailto:your.email@gmail.com">
+  <a href="mailto:sannymasters@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/ваш-профіль">
+  <a href="https://linkedin.com/in/loo00r">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/ваш-профіль">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://t.me/ваш-telegram">
+  <a href="https://t.me/g00n3r21">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </div>
 
----
-
-## 💝 Підтримайте мою роботу
-
-<div align="center">
-  <a href="https://www.buymeacoffee.com/ваш-профіль">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
-  </a>
-  <a href="https://ko-fi.com/ваш-профіль">
-    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" />
-  </a>
-</div>
 
 ---
 
