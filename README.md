@@ -72,12 +72,12 @@
 ## 📊 GitHub Статистика
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ваш-username&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ваш-username&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=loo00r&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loo00r&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ваш-username&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=loo00r&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ---
@@ -85,7 +85,7 @@
 ## 🏆 GitHub Трофеї
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ваш-username&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=loo00r&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" />
 </div>
 
 ---
@@ -93,7 +93,7 @@
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ваш-username&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=loo00r&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
 </div>
 
 ---
