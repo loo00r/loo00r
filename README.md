@@ -96,7 +96,6 @@
   <!-- Testing -->
   <img src="https://img.shields.io/badge/Pytest-3776AB?style=for-the-badge&logo=pytest&logoColor=white" />
   <img src="https://img.shields.io/badge/Unittest-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Coverage-3ECF8E?style=for-the-badge&logo=codecov&logoColor=white" />
 </div>
 
 
