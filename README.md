@@ -12,7 +12,7 @@
 
 ## 🚀 about_me
 
-- ### 🐍 **Python-powered AI/ML Developer**
+- 🐍 **Python-powered AI/ML Developer**
 - 🌱 Currently Learning **C++**
 - 📫 Contact me:
 <div align="center">
