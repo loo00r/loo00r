@@ -182,7 +182,7 @@
 - [x] Finish 6 production ready projects
 - [ ] Learning C++
 - [ ] AWS cert
-- [ ] Write tech vlog
+- [ ] Write tech blog
 
 ---
 
