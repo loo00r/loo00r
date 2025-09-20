@@ -1,7 +1,7 @@
 # 👋 Hello, I am Oleksandr!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Open+Source+Contributor;Always+Learning+Something+New" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Machine+Learning+Developer;Backend+Developer;Always+Learning+Something+New" alt="Typing SVG" />
 </div>
 
 <div align="center">
