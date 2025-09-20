@@ -93,13 +93,6 @@
 </div>
 
 <div align="center">
-  <!-- Authentication & Security -->
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/OAuth-4285F4?style=for-the-badge&logo=oauth&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bcrypt-4A90E2?style=for-the-badge&logo=security&logoColor=white" />
-</div>
-
-<div align="center">
   <!-- Testing -->
   <img src="https://img.shields.io/badge/Pytest-3776AB?style=for-the-badge&logo=pytest&logoColor=white" />
   <img src="https://img.shields.io/badge/Unittest-3776AB?style=for-the-badge&logo=python&logoColor=white" />
