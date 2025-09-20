@@ -13,7 +13,7 @@
 ## 🚀 about_me
 
 - 🌱 Currently Learning **C++**
-- 🐍 **Python g0d and AI/ML expert**
+- 🐍 **Python wizard specializing in AI/ML**
 - 📫 Contact me:
 <div align="center">
   <a href="mailto:sannymasters@gmail.com">
