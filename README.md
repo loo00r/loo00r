@@ -10,11 +10,11 @@
 
 ---
 
-## 🚀 Про мене
+## 🚀 about_me
 
-- 🌱 Вивчаю **TypeScript, С#, C++**
-- 👯 Шукаю співпрацю в **Open Source проектах**
-- 📫 Як зв'язатися зі мною:
+- 🌱 Currently Learning **C++**
+- 🐍 Python expert**
+- 📫 :
 <div align="center">
   <a href="mailto:sannymasters@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
