@@ -12,8 +12,8 @@
 
 ## 🚀 about_me
 
+- ### 🐍 **Python-powered AI/ML Developer**
 - 🌱 Currently Learning **C++**
-- 🐍 **Python-powered AI/ML Developer**
 - 📫 Contact me:
 <div align="center">
   <a href="mailto:sannymasters@gmail.com">
