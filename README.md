@@ -13,8 +13,8 @@
 ## 🚀 about_me
 
 - 🌱 Currently Learning **C++**
-- 🐍 Python expert**
-- 📫 :
+- 🐍 **Python expert**
+- 📫 :Contact me:
 <div align="center">
   <a href="mailto:sannymasters@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
