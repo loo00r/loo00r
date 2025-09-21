@@ -29,7 +29,7 @@
 
 ---
 
-## 🛠️ my tech_stack
+## 🛠️ my_tech_stack
 
 ### Languages
 <div align="center">
