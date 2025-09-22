@@ -13,7 +13,7 @@
 ## 🚀 about_me
 
 - 🐍 **Python-powered AI/ML Engineer**
-- 🌱 Currently Learning **C++**
+- 🦀 Currently Learning **Rust**
 - 📫 Contact me:
 <div align="center">
   <a href="mailto:sannymasters@gmail.com">
@@ -180,7 +180,7 @@
 ## 🎯 Current targets 2025
 
 - [x] Finish 6 production ready projects
-- [ ] Learning C++
+- [ ] Learning Rust
 - [ ] AWS cert
 - [ ] Write tech blog
 
