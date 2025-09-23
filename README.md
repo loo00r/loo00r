@@ -13,7 +13,7 @@
 ## 🚀 about_me
 
 - 🐍 **Python-powered AI/ML Engineer**
-- 🌱 Currently Learning **C++**
+- 🃏 Currently Learning **Rust**
 - 📫 Contact me:
 <div align="center">
   <a href="mailto:sannymasters@gmail.com">
