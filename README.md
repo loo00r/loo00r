@@ -177,12 +177,11 @@
 
 ---
 
-## 🎯 Current targets 2025
+## 🎯 Current targets for 2026
 
-- [x] Finish 6 production ready projects
+- [ ] Finish 6 production ready projects
 - [ ] Learning Rust
 - [ ] AWS cert
-- [ ] Write tech blog
 
 ---
 
