@@ -12,6 +12,7 @@
 
 ## 🚀 about_me
 
+- 🎓 **PhD Candidate in Electronics** (Embedded ML & IoT focus)
 - 🐍 **Python-powered AI/ML Engineer**
 - 🃏 Currently Learning **Rust**
 - 📫 Contact me:
